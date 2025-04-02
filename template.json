@@ -1,0 +1,64 @@
+{
+    "Arn": "arn:aws:quicksight:us-east-1:508407211798:template/c3027ad9-632d-4007-a2e1-e9b4537b5741/version/1",
+    "CreatedTime": "2025-04-01 23:48:30.677000+01:00",
+    "LastUpdatedTime": "2025-04-01 23:48:30.677000+01:00",
+    "Name": "c3027ad9-632d-4007-a2e1-e9b4537b5741",
+    "TemplateId": "c3027ad9-632d-4007-a2e1-e9b4537b5741",
+    "Version": {
+        "CreatedTime": "2025-04-01 23:48:30.681000+01:00",
+        "DataSetConfigurations": [
+            {
+                "ColumnGroupSchemaList": [],
+                "DataSetSchema": {
+                    "ColumnSchemaList": [
+                        {
+                            "DataType": "DATETIME",
+                            "Name": "Order Date"
+                        },
+                        {
+                            "DataType": "DECIMAL",
+                            "Name": "Profit"
+                        },
+                        {
+                            "DataType": "STRING",
+                            "Name": "Contact Name"
+                        },
+                        {
+                            "DataType": "STRING",
+                            "Name": "Product"
+                        },
+                        {
+                            "DataType": "DECIMAL",
+                            "Name": "Sales"
+                        },
+                        {
+                            "DataType": "STRING",
+                            "GeographicRole": "COUNTRY",
+                            "Name": "Country"
+                        }
+                    ]
+                },
+                "Placeholder": "99208064-d564-44ac-a7e2-7bdda2a7ba6f"
+            }
+        ],
+        "Description": "Created from analysis",
+        "Sheets": [
+            {
+                "Name": "Sheet 1",
+                "SheetId": "96a499cb-e406-4451-b3aa-19c2f63a64c9"
+            },
+            {
+                "Name": "Sheet 2",
+                "SheetId": "3c5b2cad-9428-4462-bc0a-0771e33b1fb0"
+            },
+            {
+                "Name": "Sheet 3",
+                "SheetId": "c24ba840-c401-45f1-bb31-2576fa5bdd97"
+            }
+        ],
+        "SourceEntityArn": "arn:aws:quicksight:us-east-1:508407211798:analysis/c3027ad9-632d-4007-a2e1-e9b4537b5741",
+        "Status": "CREATION_SUCCESSFUL",
+        "ThemeArn": "arn:aws:quicksight::aws:theme/MIDNIGHT",
+        "VersionNumber": 1
+    }
+}
