@@ -1,5 +1,5 @@
 {
-    "Arn": "arn:aws:quicksight:us-east-1:508407211798:template/c3027ad9-632d-4007-a2e1-e9b4537b5741/version/1",
+    "Arn": "arn:aws:quicksight:us-east-1:123456789012:template/c3027ad9-632d-4007-a2e1-e9b4537b5741/version/1",
     "CreatedTime": "2025-04-01 23:48:30.677000+01:00",
     "LastUpdatedTime": "2025-04-01 23:48:30.677000+01:00",
     "Name": "c3027ad9-632d-4007-a2e1-e9b4537b5741",
@@ -56,7 +56,7 @@
                 "SheetId": "c24ba840-c401-45f1-bb31-2576fa5bdd97"
             }
         ],
-        "SourceEntityArn": "arn:aws:quicksight:us-east-1:508407211798:analysis/c3027ad9-632d-4007-a2e1-e9b4537b5741",
+        "SourceEntityArn": "arn:aws:quicksight:us-east-1:123456789012:analysis/c3027ad9-632d-4007-a2e1-e9b4537b5741",
         "Status": "CREATION_SUCCESSFUL",
         "ThemeArn": "arn:aws:quicksight::aws:theme/MIDNIGHT",
         "VersionNumber": 1
